@@ -1,0 +1,8 @@
+TENTANG :
+- penjelasan HIMA ELKA beserta logo
+- KABINET (penjelasan kabinet [bila ada], penjelasan logo, dan struktur organisasi kabinet [kahima, wakahima])
+- terdapat link menuju ke kabinet
+- terdapat link menuju kabinet -> departemen dan struktur organisasi
+
+KABINET -> departemen: list departemen beserta detail yang menginformasikan list kerja pada departemen tersebut serta dapat menampilkan struktur organisasi dari departemen tersebut.
+KABINET -> struktur organisasi: kadep, list staff (ahli dan muda).
